@@ -5,6 +5,7 @@ public class WelcomeClassExample {
 		// TODO Auto-generated method stub
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld 2");
+		System.out.println("HelloWorld 3");
 	}
 
 }
