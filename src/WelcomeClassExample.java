@@ -6,6 +6,7 @@ public class WelcomeClassExample {
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld 2");
 		System.out.println("HelloWorld 3");
+		System.out.println("Helloworld 4");
 	}
 
 }
